@@ -7,11 +7,11 @@
 WBTG 将混乱的浏览器标签页转变为干净、专业且可靠的 Telegram Web 多账号工作空间。
 
 ---
-
 ### 🌟 为什么选择 WBTG？
 
 无需手动打开数十个浏览器配置文件，WBTG 基于 Web 配置文件创建并管理 **隔离的 Telegram Web 会话**。每个会话拥有独立的持久化存储、代理设置、指纹及任务状态。
 
+---
 ### ⚙️ 核心功能
 
 | 分类                       | 功能 |
@@ -33,6 +33,7 @@ WBTG 将混乱的浏览器标签页转变为干净、专业且可靠的 Telegram
 | **快速客服支持**           | 提供高响应支持渠道，用于处理配置、授权和运行中的问题 |
 | **自动更新**               | 内置版本检查功能，并提供最新程序版本的直接下载链接 |
 
+---
 ### 🚀 核心优势
 
 - **完全隔离** — 每个账号拥有独立的配置文件目录  
@@ -41,6 +42,7 @@ WBTG 将混乱的浏览器标签页转变为干净、专业且可靠的 Telegram
 - **便捷监控** — 一目了然地查看每个账号的状态  
 - **灵活计划** — 可定时执行任务，无需持续人工干预  
 
+---
 ### 📸 截图
 
 <img width="256" alt="WBTG_CN_001" src="https://github.com/user-attachments/assets/855112ca-338f-4592-88e9-016558d8eff2" />
@@ -48,19 +50,26 @@ WBTG 将混乱的浏览器标签页转变为干净、专业且可靠的 Telegram
 <img width="256" alt="WBTG_CN_003" src="https://github.com/user-attachments/assets/1fe95091-dcfd-4c5c-af1c-3f3dec521f33" />
 <img width="256" alt="WBTG_CN_004" src="https://github.com/user-attachments/assets/ffe5cb9c-2967-4c68-be1e-2d928c0c96a2" />
 
+---
+### ▶️ 视频回顾
 
+[在 YouTube 上观看](https://youtu.be/zR7skU6907c)
+
+---
 ### 📥 下载
 
 **始终获取最新版本** → [官网 Releases](https://wbtg.org/cn/downloads)
 
+---
 ### 📬 联系方式与支持
 
-- 📧 邮箱: manager@wbtg.org  
+- 📧 邮箱: manager[@]wbtg.org  
 - Telegram: [发送消息](https://wbtg.org/telegram-contact)  
 - Discord: [发送消息](https://wbtg.org/discord-contact)  
 - Element/Matrix: [发送消息](https://wbtg.org/element-contact)  
 - 🌍 官网: https://wbtg.org/
 
+---
 ### ☕ 支持项目
 
 如果 WBTG 让您的工作更高效便捷 — 请我们喝杯咖啡吧 😄  
@@ -72,3 +81,4 @@ WBTG 将混乱的浏览器标签页转变为干净、专业且可靠的 Telegram
 它是一个专为严肃的多账号 Telegram Web 操作打造的完整桌面工作空间。
 
 **整理 • 监控 • 发送 • 扩展**
+---
